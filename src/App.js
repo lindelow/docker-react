@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Built by Travis.
+          Built by .travis.yml
         </p>
         <a
           className="App-link"
